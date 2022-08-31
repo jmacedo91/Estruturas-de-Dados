@@ -40,7 +40,7 @@ int main()
     delete [] pont3;
     pont3 = pont1;
     cout << *pont3;
-    cout << pont3
+    cout << pont3;
     
 
     return 0;
