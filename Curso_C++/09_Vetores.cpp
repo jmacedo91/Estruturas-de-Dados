@@ -38,8 +38,12 @@ int main()
         cin >> vetor[i];
     }
     
+    for (int i = 0; i < tamanho; i++) {
+        cout << vetor[i] << " ";
+    }
+    cout << endl;
     
-    
+    delete [] vetor;
     
     return 0;
 }
