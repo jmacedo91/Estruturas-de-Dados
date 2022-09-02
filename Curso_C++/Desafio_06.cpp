@@ -1,3 +1,7 @@
+//Crie um Algoritmo em C++, em que o usuário informa os gastos
+//com alimentação de 5 famílias calcula a média de gastos e diz de
+//cada família, se seu gasto é abaixo, acima ou na média.
+
 #include <iostream>
 
 using namespace std;
